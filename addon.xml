@@ -2,7 +2,7 @@
 <addon id="plugin.video.Fullens"
        name="Fullens"
        version="0.0.1"
-       provider-name="Fullens">
+       provider-name="Luis Angel Almanza Castro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -24,8 +24,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy Lists</summary>
-    <description lang="en">PlayoniptvBase-Este programa se distribuye con la esperanza de que sea útil,(Fullens) PD. Todos los cursos son para fines educativos.Play on iptv no se hace responsable del mal uso de su contenido Cualquier duda o comentario. doctoriptv@gmail.com</description>
+    <summary lang="en">http://facebook.com/fullensprog</summary>
+    <description lang="en">fullensprogramas@gmail.com</description>
     <platform>all</platform>
   </extension>
 </addon>
